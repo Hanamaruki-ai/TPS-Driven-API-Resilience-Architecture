@@ -416,6 +416,14 @@ implemented, and extended in both open-source and commercial systems.
 
 ---
 
+## Support
+
+These ideas are shared freely, without patents or restrictions.
+If you find them helpful or meaningful,
+any form of support is welcome and appreciated.
+
+---
+
 # 🟦 README
 
 --
@@ -757,6 +765,17 @@ APIは本来、ローカルの自由な世界で育った技術です。
   構造的に発生しなくなります。
 
 このリポジトリはその実例です。
+
+---
+
+## Support
+
+本プロジェクトのアイデアは、特許や制限を設ける意図はなく、
+自由に使っていただくことを前提としています。
+
+もし内容を気に入っていただけた場合や、
+実際の改善に役立った場合には、
+ご支援いただけると励みになります。
 
 ---
 
