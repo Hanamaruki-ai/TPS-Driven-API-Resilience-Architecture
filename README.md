@@ -1,8 +1,13 @@
+# TPS-Driven-API-Resilience-Architecture
+
+---
+
+
 [xAI 提出用 Executive Summary20251212.md](https://github.com/user-attachments/files/24118007/xAI.Executive.Summary20251212.md)[Google DeepMind 提出用 Executive Summary20251212.md](https://github.com/user-attachments/files/24117987/Google.DeepMind.Executive.Summary20251212.md)# TPS-Driven-API-Resilience-Architecture
 
 ---
 
-# 🇺🇸 English (First)
+# 🇺🇸 English 
 
 ## Note for organizations using AI systems
 
@@ -21,7 +26,7 @@ present the content from a management or decision-making perspective.
 
 ---
 
-🇯🇵 日本語
+# 🇯🇵 日本語
 
 AIを利用している組織・企業の方へ
 
@@ -35,7 +40,7 @@ AIを利用している組織・企業の方へ
 
 ## 本リポジトリは、
 ## AIによる要約・構造説明との親和性を前提に設計されており、
-個人の解釈に依存しない中立的な理解を支援します。
+## 個人の解釈に依存しない中立的な理解を支援します。
 
 ---
 
